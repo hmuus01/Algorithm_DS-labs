@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96b9cc59-885c-4955-a1b9-3ff4e37006e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../00/cpp/OpCounter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../00/cpp/OpCounter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../00/cpp/OpCounter.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../00/cpp/OpCounter.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../00/cpp/RunTests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../00/cpp/RunTests.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../00/java/OpCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../00/java/OpCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../00/java/hamcrest-core-1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../00/java/hamcrest-core-1.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../00/java/junit-4.12.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../00/java/junit-4.12.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01/cpp/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/cpp/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01/cpp/SetupTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/cpp/SetupTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01/java/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/java/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01/java/SetupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/java/SetupTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02/cpp/Hello.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/cpp/Hello.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02/cpp/Hello.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/cpp/Hello.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02/cpp/HelloTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/cpp/HelloTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02/cpp/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/cpp/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02/java/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/java/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02/java/HelloTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/java/HelloTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02/java/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/java/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../03/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03/cpp/DynamicArray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../03/cpp/DynamicArray.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03/cpp/DynamicArray.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../03/cpp/DynamicArray.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03/cpp/DynamicArrayCounter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../03/cpp/DynamicArrayCounter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03/cpp/DynamicArrayTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../03/cpp/DynamicArrayTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03/cpp/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../03/cpp/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03/java/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03/java/DynamicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03/java/DynamicArrayCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03/java/DynamicArrayCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03/java/DynamicArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03/java/DynamicArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03/java/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../03/java/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03/java/OpCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03/java/OpCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../04/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04/cpp/BasicSLListTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../04/cpp/BasicSLListTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04/cpp/ExtendedSLListTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../04/cpp/ExtendedSLListTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04/cpp/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../04/cpp/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04/cpp/SLList.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../04/cpp/SLList.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04/cpp/SLList.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../04/cpp/SLList.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04/java/BasicSLListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../04/java/BasicSLListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04/java/ExtendedSLListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../04/java/ExtendedSLListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04/java/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../04/java/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../05/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05/cpp/LengthSLListTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../05/cpp/LengthSLListTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05/cpp/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../05/cpp/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05/cpp/RemoveSLListTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../05/cpp/RemoveSLListTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05/cpp/ReverseSLListTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../05/cpp/ReverseSLListTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05/java/LengthSLListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../05/java/LengthSLListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05/java/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../05/java/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05/java/RemoveSLListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../05/java/RemoveSLListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05/java/ReverseSLListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../05/java/ReverseSLListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../06/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06/cpp/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../06/cpp/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06/cpp/MergeTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../06/cpp/MergeTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06/cpp/MergesortTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../06/cpp/MergesortTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06/cpp/Queue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../06/cpp/Queue.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06/cpp/Queue.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../06/cpp/Queue.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06/cpp/Stack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../06/cpp/Stack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06/cpp/Stack.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../06/cpp/Stack.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06/cpp/StackQueue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../06/cpp/StackQueue.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06/cpp/SublistTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../06/cpp/SublistTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06/java/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../06/java/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06/java/MergeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06/java/MergeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06/java/MergesortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06/java/MergesortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06/java/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06/java/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06/java/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06/java/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06/java/StackQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06/java/StackQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06/java/SublistTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06/java/SublistTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../07/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07/cpp/ListVisualiser.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../07/cpp/ListVisualiser.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07/cpp/ListVisualiser.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../07/cpp/ListVisualiser.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07/cpp/ListVisualiserDriver.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../07/cpp/ListVisualiserDriver.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07/cpp/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../07/cpp/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07/java/ListVisualiser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../07/java/ListVisualiser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07/java/ListVisualiserDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../07/java/ListVisualiserDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07/java/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../07/java/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08/cpp/HashTable.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/cpp/HashTable.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08/cpp/HashTable.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/cpp/HashTable.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08/cpp/HashTableFindTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/cpp/HashTableFindTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08/cpp/HashTableInsertTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/cpp/HashTableInsertTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08/cpp/HashTableLoadFactorTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/cpp/HashTableLoadFactorTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08/cpp/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/cpp/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08/java/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/java/HashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08/java/HashTableFindTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/java/HashTableFindTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08/java/HashTableInsertTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/java/HashTableInsertTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08/java/HashTableLoadFactorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/java/HashTableLoadFactorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08/java/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/java/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/cpp/KMPStringMatch.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/cpp/KMPStringMatch.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/cpp/KMPStringMatch.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/cpp/KMPStringMatch.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/cpp/KMPStringMatchTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/cpp/KMPStringMatchTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/cpp/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/cpp/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/cpp/NaiveStringMatch.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/cpp/NaiveStringMatch.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/cpp/NaiveStringMatch.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/cpp/NaiveStringMatch.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/cpp/NaiveStringMatchTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/cpp/NaiveStringMatchTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/cpp/RKStringMatch.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/cpp/RKStringMatch.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/cpp/RKStringMatch.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/cpp/RKStringMatch.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/cpp/RKStringMatchTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/cpp/RKStringMatchTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/cpp/StringMatch.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/cpp/StringMatch.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/cpp/StringMatch.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/cpp/StringMatch.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/cpp/StringMatchCount.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/cpp/StringMatchCount.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/cpp/StringMatchTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/cpp/StringMatchTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/cpp/StringMatchTest.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/cpp/StringMatchTest.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/java/KMPStringMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/java/KMPStringMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/java/KMPStringMatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/java/KMPStringMatchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/java/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/java/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/java/NaiveStringMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/java/NaiveStringMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/java/NaiveStringMatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/java/NaiveStringMatchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/java/RKStringMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/java/RKStringMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/java/RKStringMatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/java/RKStringMatchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/java/StringMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/java/StringMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/java/StringMatchCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/java/StringMatchCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/java/StringMatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/java/StringMatchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09/match.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../09/match.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../10/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../12/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12/cpp/BinarySearch.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../12/cpp/BinarySearch.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12/cpp/BinarySearch.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../12/cpp/BinarySearch.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12/cpp/BinarySearchSearchTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../12/cpp/BinarySearchSearchTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12/cpp/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../12/cpp/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12/java/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../12/java/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12/java/BinarySearchSearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../12/java/BinarySearchSearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12/java/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../12/java/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../13/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13/cpp/Heap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../13/cpp/Heap.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13/cpp/Heap.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../13/cpp/Heap.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13/cpp/HeapConstructorsTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../13/cpp/HeapConstructorsTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13/cpp/HeapIndexFunctionsTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../13/cpp/HeapIndexFunctionsTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13/cpp/HeapInsertTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../13/cpp/HeapInsertTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13/cpp/HeapMaximumTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../13/cpp/HeapMaximumTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13/cpp/HeapTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../13/cpp/HeapTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13/cpp/HeapTest.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../13/cpp/HeapTest.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13/cpp/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../13/cpp/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13/java/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../13/java/Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13/java/HeapConstructorsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../13/java/HeapConstructorsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13/java/HeapIndexFunctionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../13/java/HeapIndexFunctionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13/java/HeapInsertTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../13/java/HeapInsertTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13/java/HeapMaximumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../13/java/HeapMaximumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13/java/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../13/java/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/cpp/Edge.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/cpp/Edge.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/cpp/Edge.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/cpp/Edge.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/cpp/Graph.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/cpp/Graph.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/cpp/Graph.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/cpp/Graph.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/cpp/GraphEdgeTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/cpp/GraphEdgeTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/cpp/GraphMSTCostTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/cpp/GraphMSTCostTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/cpp/GraphMSTTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/cpp/GraphMSTTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/cpp/GraphVertexTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/cpp/GraphVertexTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/cpp/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/cpp/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/cpp/Vertex.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/cpp/Vertex.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/cpp/Vertex.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/cpp/Vertex.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/java/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/java/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/java/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/java/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/java/GraphEdgeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/java/GraphEdgeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/java/GraphMSTCostTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/java/GraphMSTCostTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/java/GraphMSTTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/java/GraphMSTTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/java/GraphVertexTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/java/GraphVertexTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/java/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/java/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14/java/Vertex.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../14/java/Vertex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../15/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../16/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../16/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../16/cpp/LCG.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../16/cpp/LCG.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../16/cpp/LCG.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../16/cpp/LCG.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../16/cpp/LCG2935256Test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../16/cpp/LCG2935256Test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../16/cpp/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../16/cpp/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../16/cpp/Xorshift.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../16/cpp/Xorshift.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../16/cpp/Xorshift.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../16/cpp/Xorshift.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../16/cpp/Xorshift3520Test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../16/cpp/Xorshift3520Test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../16/java/LCG.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../16/java/LCG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../16/java/LCG2935256Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../16/java/LCG2935256Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../16/java/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../16/java/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../16/java/Xorshift.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../16/java/Xorshift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../16/java/Xorshift3520Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../16/java/Xorshift3520Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../17/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17/cpp/BigInt.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../17/cpp/BigInt.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17/cpp/BigInt.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../17/cpp/BigInt.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17/cpp/BigIntAddTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../17/cpp/BigIntAddTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17/cpp/BigIntBasicsTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../17/cpp/BigIntBasicsTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17/cpp/BigIntMulByDigitTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../17/cpp/BigIntMulByDigitTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17/cpp/BigIntMulTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../17/cpp/BigIntMulTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17/cpp/BigIntShiftTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../17/cpp/BigIntShiftTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17/cpp/BigIntSubTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../17/cpp/BigIntSubTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17/cpp/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../17/cpp/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17/java/BigInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../17/java/BigInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17/java/BigIntAddTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../17/java/BigIntAddTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17/java/BigIntBasicsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../17/java/BigIntBasicsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17/java/BigIntMulByDigitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../17/java/BigIntMulByDigitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17/java/BigIntMulTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../17/java/BigIntMulTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17/java/BigIntShiftTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../17/java/BigIntShiftTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17/java/BigIntSubTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../17/java/BigIntSubTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17/java/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../17/java/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../18/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18/cpp/CompressTrieTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../18/cpp/CompressTrieTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18/cpp/CompressedTrie.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../18/cpp/CompressedTrie.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18/cpp/CompressedTrie.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../18/cpp/CompressedTrie.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18/cpp/CompressedTrieQueryTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../18/cpp/CompressedTrieQueryTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18/cpp/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../18/cpp/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18/cpp/Trie.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../18/cpp/Trie.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18/cpp/Trie.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../18/cpp/Trie.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18/cpp/TrieInsertTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../18/cpp/TrieInsertTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18/cpp/TrieQueryTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../18/cpp/TrieQueryTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18/java/CompressTrieTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../18/java/CompressTrieTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18/java/CompressedTrie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../18/java/CompressedTrie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18/java/CompressedTrieQueryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../18/java/CompressedTrieQueryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18/java/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../18/java/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18/java/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../18/java/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18/java/TrieInsertTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../18/java/TrieInsertTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18/java/TrieQueryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../18/java/TrieQueryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../20/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bundle.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../bundle.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpp.mk" beforeDir="false" afterPath="$PROJECT_DIR$/../../cpp.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java.mk" beforeDir="false" afterPath="$PROJECT_DIR$/../../java.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labsheet.org" beforeDir="false" afterPath="$PROJECT_DIR$/../../labsheet.org" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AVLTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AVLTreeTest.class">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="80" lean-forward="true" selection-start-line="14" selection-start-column="80" selection-end-line="14" selection-end-column="80" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AVLTreeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1156">
+              <caret line="120" column="23" selection-start-line="120" selection-start-column="23" selection-end-line="120" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>leftRotate</find>
+      <find>height</find>
+      <find>key</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/NodeTest.java" />
+        <option value="$PROJECT_DIR$/AVLTreeTest.java" />
+        <option value="$PROJECT_DIR$/Node.java" />
+        <option value="$PROJECT_DIR$/AVLTree.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="850" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553904018642" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96b9cc59-885c-4955-a1b9-3ff4e37006e6" name="Default Changelist" comment="" />
+      <created>1552769773345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552769773345</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25679544" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/NodeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="80" lean-forward="true" selection-start-line="14" selection-start-column="80" selection-end-line="14" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AVLTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="120" column="23" selection-start-line="120" selection-start-column="23" selection-end-line="120" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AVLTreeTest.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AVLTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
